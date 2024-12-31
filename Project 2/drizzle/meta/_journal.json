@@ -1,0 +1,34 @@
+{
+  "version": "7",
+  "dialect": "mysql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1735620454259,
+      "tag": "0000_graceful_stature",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "5",
+      "when": 1735622790697,
+      "tag": "0001_whole_wasp",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "5",
+      "when": 1735624008680,
+      "tag": "0002_hesitant_amazoness",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "5",
+      "when": 1735636460755,
+      "tag": "0003_lucky_thunderbird",
+      "breakpoints": true
+    }
+  ]
+}
