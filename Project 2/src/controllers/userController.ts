@@ -4,7 +4,6 @@ import { ApiResponse } from "@/utils/apiResponse";
 import { asyncHandler } from "@/utils/asyncHandler";
 import { StatusCodes } from "http-status-codes";
 import { drizzle } from "drizzle-orm/mysql2";
-import { seed } from "drizzle-seed";
 
 import { Request, Response } from "express";
 import { usersTable } from "@/db/schema";
