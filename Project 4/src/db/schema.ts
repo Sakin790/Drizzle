@@ -12,7 +12,7 @@ export const todos = pgTable("todos", {
   id: serial("id").primaryKey(),
   title: text("title").notNull(),
   content: text("content"),
-  authorId: integer("author_id"),
+  authorId: integer("author_id").references(() => usersTable.id),
 });
 
 export const todosRelations = relations(todos, ({ one }) => ({

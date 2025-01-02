@@ -15,6 +15,13 @@
       "when": 1735840570807,
       "tag": "0001_new_prowler",
       "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "7",
+      "when": 1735844247421,
+      "tag": "0002_pale_blazing_skull",
+      "breakpoints": true
     }
   ]
 }
