@@ -8,6 +8,13 @@
       "when": 1735798522570,
       "tag": "0000_short_steel_serpent",
       "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "7",
+      "when": 1735840570807,
+      "tag": "0001_new_prowler",
+      "breakpoints": true
     }
   ]
 }
