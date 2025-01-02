@@ -1,0 +1,1 @@
+ALTER TABLE `todos` MODIFY COLUMN `author_id` serial AUTO_INCREMENT;
